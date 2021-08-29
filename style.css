@@ -1,0 +1,43 @@
+.mybreak{
+    margin-bottom: 3.25rem;
+}
+.carousel-item img{
+    object-fit: cover;
+    object-position: center;
+    height: 60vh;
+    overflow: hidden;
+}
+.carousel-item{
+    padding: 1.25rem 2.5rem;
+}
+.categoryImg{
+    height: 6.25rem;
+}
+.shoe{
+    /* height: 5rem; */
+}
+
+.cat1, .cat2, .cat3{
+    padding-top: 0.625rem;
+    padding-bottom: 0.625rem;
+    padding-left: 0.7rem;
+    padding-right: 0.9rem;
+    border-radius: 1.30rem;
+}
+
+.cat1{
+    background-color:rgb(187, 151, 192);
+}
+.cat2{
+    background-color: rgb(236, 149, 149);
+}
+.cat3{
+background-color: rgb(205, 231, 143);
+/* overflow: hidden; */
+}
+.categories h2{
+    color: whitesmoke;
+}
+.categories img{
+    width: 6.30rem;
+}
